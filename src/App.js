@@ -13,7 +13,6 @@ import Pizza4 from './assets/pizza-slideshow4.jpg';
 import 'bootstrap/dist/css/bootstrap.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-
 function App() {
   const slides = [
     { image: Pizza1, title: 'image1' },
