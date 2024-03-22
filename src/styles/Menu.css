@@ -1,0 +1,40 @@
+.menu-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 30px;
+    margin-top: 40px;
+}
+
+.menu-items {
+    width: 232px;
+    height: 380px;
+    margin-top: 25px;
+    border: 1px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.menu-items:hover {
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.2);
+}
+
+.menu-image {
+    width: 230px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.menu-name {
+    margin-top: 7px;
+}
+
+.menu-title {
+    margin-top: 30px;
+    margin-bottom: -32px;
+    font-family: cursive;
+    font-weight: 600;
+}
