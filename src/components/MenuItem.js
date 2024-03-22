@@ -9,7 +9,7 @@ function MenuItem({ image, name, price }) {
         <p className='menu-price'> ${price}</p>
       </div>
     </div>
-  )
+  ) 
 }
 
 export default MenuItem

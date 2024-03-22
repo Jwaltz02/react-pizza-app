@@ -8,7 +8,7 @@ import '../styles/Navbar.css'
 function Navbar() {
   const [dropdown, setDropdown] = useState(true)
   return (
-    <div className='navbar'>
+    <div className='navbar'> 
       <div className="left-side">
         <div className="hamburger-menu" onClick={() => setDropdown(!dropdown)}><BsJustify /></div>
         <img className='logo' alt="website logo" src={Logo} />
