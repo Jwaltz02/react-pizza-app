@@ -18,7 +18,7 @@
     margin-top: 90px;
     margin-left: 45px;
     margin-right: 45px;
-    width: 45vw;
+    width: 35vw;
     row-gap: 30px;
 }
 
@@ -68,4 +68,10 @@ button {
     width: 130px;
     background-color: black;
     color: white;
+}
+
+@media (max-width: 370px) {
+    button {
+        width: 110px;
+    }
 }

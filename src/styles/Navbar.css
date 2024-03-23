@@ -92,4 +92,10 @@
     .right-side {
         column-gap: 55px;
     }
+    .navbar {
+        height: 125px;
+    }
+    .right-side {
+        margin-top: 165px;
+    }
 }
