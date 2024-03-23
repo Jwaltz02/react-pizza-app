@@ -14,7 +14,7 @@ function Navbar() {
         <img className='logo' alt="website logo" src={Logo} />
       </div>
       <ul className={dropdown ? "right-side" : "right-side menu-close"}>
-        <li><Link to="/"> Home </Link></li>
+        <li><Link to="/react-pizza-app"> Home </Link></li>
         <li><Link to="/Menu"> Menu </Link></li>
         <li><Link to="/About"> About </Link></li>
         <li><Link to="/Contact"> Contact </Link></li>
