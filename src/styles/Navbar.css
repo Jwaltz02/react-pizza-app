@@ -79,10 +79,6 @@
         cursor: pointer;
     }
 
-    .hamburger-menu:hover{
-        color: rgb(255, 45, 45);
-    }
-
      .active {
         color: rgb(255, 45, 45);
     }
