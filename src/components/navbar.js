@@ -6,14 +6,20 @@ import { BsJustify } from "react-icons/bs";
 import '../styles/Navbar.css'
 
 function Navbar() {
-  const [dropdown, setDropdown] = useState(true)
+  const [dropdown, setDropdown] = useState(false)
+  const toggleMenu = () => {
+    setDropdown(false)
+  }
+  window.addEventListener("resize", toggleMenu);
+
   return (
     <div className='navbar'> 
       <div className="left-side">
-        <div className="hamburger-menu" onClick={() => setDropdown(!dropdown)}><BsJustify /></div>
+      {console.log(dropdown)}
+        <div className={dropdown ? "hamburger-menu active" : "hamburger-menu"} onClick={() => setDropdown(!dropdown)}><BsJustify /></div>
         <img className='logo' alt="website logo" src={Logo} />
       </div>
-      <ul className={dropdown ? "right-side" : "right-side menu-close"}>
+      <ul id="rightSide" className={dropdown ? "right-side" : "right-side menu-close"}>
         <li><Link to="/react-pizza-app"> Home </Link></li>
         <li><Link to="/Menu"> Menu </Link></li>
         <li><Link to="/About"> About </Link></li>
