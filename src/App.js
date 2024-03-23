@@ -24,8 +24,8 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Navbar />
-        <Routes>
-          <Route path="/react-pizza-app" element={<Home slides={slides} />} />
+        <Routes path="/react-pizza-app">
+          <Route path="/" element={<Home slides={slides} />} />
           <Route path="/Menu" element={<Menu />} />
           <Route path="/About" element={<About />} />
           <Route path="/Contact" element={<Contact />} />
