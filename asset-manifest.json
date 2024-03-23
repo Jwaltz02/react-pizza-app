@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-pizza-app/static/css/main.b7ba4e10.chunk.css",
+    "main.css": "/react-pizza-app/static/css/main.809bab89.chunk.css",
     "main.js": "/react-pizza-app/static/js/main.95eeefbc.chunk.js",
     "main.js.map": "/react-pizza-app/static/js/main.95eeefbc.chunk.js.map",
     "runtime-main.js": "/react-pizza-app/static/js/runtime-main.0efb72d7.js",
@@ -11,10 +11,10 @@
     "static/js/3.ac654c33.chunk.js": "/react-pizza-app/static/js/3.ac654c33.chunk.js",
     "static/js/3.ac654c33.chunk.js.map": "/react-pizza-app/static/js/3.ac654c33.chunk.js.map",
     "index.html": "/react-pizza-app/index.html",
-    "precache-manifest.b0404d0f509a7300519cf2b471d0bdb3.js": "/react-pizza-app/precache-manifest.b0404d0f509a7300519cf2b471d0bdb3.js",
+    "precache-manifest.6e898ccb91d59f8ac587a4ba34edddb1.js": "/react-pizza-app/precache-manifest.6e898ccb91d59f8ac587a4ba34edddb1.js",
     "service-worker.js": "/react-pizza-app/service-worker.js",
     "static/css/2.8ac840ac.chunk.css.map": "/react-pizza-app/static/css/2.8ac840ac.chunk.css.map",
-    "static/css/main.b7ba4e10.chunk.css.map": "/react-pizza-app/static/css/main.b7ba4e10.chunk.css.map",
+    "static/css/main.809bab89.chunk.css.map": "/react-pizza-app/static/css/main.809bab89.chunk.css.map",
     "static/js/2.0fa382d0.chunk.js.LICENSE.txt": "/react-pizza-app/static/js/2.0fa382d0.chunk.js.LICENSE.txt",
     "static/media/AboutPageImage.jpg": "/react-pizza-app/static/media/AboutPageImage.2905f32c.jpg",
     "static/media/BuildYourOwn.jpeg": "/react-pizza-app/static/media/BuildYourOwn.f5ea3643.jpeg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.0efb72d7.js",
     "static/css/2.8ac840ac.chunk.css",
     "static/js/2.0fa382d0.chunk.js",
-    "static/css/main.b7ba4e10.chunk.css",
+    "static/css/main.809bab89.chunk.css",
     "static/js/main.95eeefbc.chunk.js"
   ]
 }
