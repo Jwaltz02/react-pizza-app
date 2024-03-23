@@ -1,13 +1,13 @@
-import Pepperoni from '../assets/PepperoniPizza.jpeg'
-import Vegan from '../assets/VeggiePizza.jpeg'
-import Margherita from '../assets/MargheritaPizza.jpeg'
-import Pineapple from '../assets/HawaiianPizza.jpeg'
-import MeatLover from '../assets/MeatLoverPizza.jpeg'
-import WaltzPizza from '../assets/WaltzPizza.jpeg'
-import BuildYourOwn from '../assets/BuildYourOwn.jpeg'
-import MexicanStyle from '../assets/MexicanPizza.jpeg'
-import Seafood from '../assets/SeafoodPizza.jpeg'
-import ButterChicken from '../assets/ButterChicken.jpeg'
+import Pepperoni from '../assets/PepperoniPizza.jpeg'; 
+import Vegan from '../assets/VeggiePizza.jpeg';
+import Margherita from '../assets/MargheritaPizza.jpeg';
+import Pineapple from '../assets/HawaiianPizza.jpeg';
+import MeatLover from '../assets/MeatLoverPizza.jpeg';
+import WaltzPizza from '../assets/WaltzPizza.jpeg';
+import BuildYourOwn from '../assets/BuildYourOwn.jpeg';
+import MexicanStyle from '../assets/MexicanPizza.jpeg';
+import Seafood from '../assets/SeafoodPizza.jpeg';
+import ButterChicken from '../assets/ButterChicken.jpeg';
 
 export const MenuList = [
     {
