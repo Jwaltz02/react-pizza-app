@@ -15,7 +15,6 @@ function Navbar() {
   return (
     <div className='navbar'> 
       <div className="left-side">
-      {console.log(dropdown)}
         <div className={dropdown ? "hamburger-menu active" : "hamburger-menu"} onClick={() => setDropdown(!dropdown)}><BsJustify /></div>
         <img className='logo' alt="website logo" src={Logo} />
       </div>
