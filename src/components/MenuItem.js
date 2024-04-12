@@ -5,6 +5,7 @@ function MenuItem({ image, name, price }) {
     <div className="menu-items">
       <div
         className="menu-image"
+        alt={name}
         style={{ backgroundImage: `url(${image})` }}></div>
       <div className="name-price">
         <h5 className="menu-name"> {name} </h5>

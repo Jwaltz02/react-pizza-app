@@ -8,6 +8,7 @@ function About() {
     <div className="about">
       <div
         className="about-top"
+        alt="a pizza on top of a pizza peel"
         style={{ backgroundImage: `url(${BannerImage})` }}></div>
       <div className="about-bottom">
         <h1>ABOUT US</h1>

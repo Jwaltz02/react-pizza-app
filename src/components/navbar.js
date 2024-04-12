@@ -23,7 +23,7 @@ function Navbar() {
         <img className="logo" alt="website logo" src={Logo} />
       </div>
       <div className="middle" style={{ color: "white", marginTop: "5px" }}>
-        <b>Delivery</b> in <b>Toronto:</b>
+        <b>Order</b> in <b>Toronto:</b>
         <span style={{ color: "rgb(255, 45, 45)" }}> (416) 967-1111</span>
       </div>
       <ul

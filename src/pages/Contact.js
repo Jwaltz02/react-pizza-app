@@ -7,6 +7,7 @@ function Contact() {
     <div className="contact-page">
       <div
         className="left-side-contact"
+        alt="pepperoni pizza image"
         style={{ backgroundImage: `url(${PizzaImage})` }}></div>
       <div className="right-side-contact">
         <h1>Contact Us</h1>
