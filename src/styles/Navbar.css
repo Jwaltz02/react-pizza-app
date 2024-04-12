@@ -97,3 +97,9 @@
         height: 125px;
     }
 }
+
+@media (max-width: 790px){
+    .middle{
+        display: none;
+    }
+}

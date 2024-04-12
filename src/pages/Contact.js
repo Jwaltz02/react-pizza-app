@@ -38,6 +38,10 @@ function Contact() {
         <button type="submit" form="contact-form">
           Submit Form
         </button>
+        <div style={{ color: "black", marginTop: "5px" }}>
+          <b>Or by Phone At:</b>
+          <span style={{ color: "rgb(255, 45, 45)" }}> (416) 967-1111</span>
+        </div>
       </div>
     </div>
   );

@@ -71,8 +71,9 @@
         margin: 170px auto;
     }
     .caption-price {
-        margin-top: -50vw;
-        font-size: 200px;
+        margin-top: -52vw;
         width: auto;
+        margin-left: auto;
+        text-align: center;
     }
 }
