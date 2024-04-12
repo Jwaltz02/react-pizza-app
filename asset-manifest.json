@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-pizza-app/static/css/main.b50d74ec.chunk.css",
-    "main.js": "/react-pizza-app/static/js/main.598b218b.chunk.js",
-    "main.js.map": "/react-pizza-app/static/js/main.598b218b.chunk.js.map",
+    "main.css": "/react-pizza-app/static/css/main.23e99b40.chunk.css",
+    "main.js": "/react-pizza-app/static/js/main.1659f367.chunk.js",
+    "main.js.map": "/react-pizza-app/static/js/main.1659f367.chunk.js.map",
     "runtime-main.js": "/react-pizza-app/static/js/runtime-main.0efb72d7.js",
     "runtime-main.js.map": "/react-pizza-app/static/js/runtime-main.0efb72d7.js.map",
     "static/css/2.8ac840ac.chunk.css": "/react-pizza-app/static/css/2.8ac840ac.chunk.css",
@@ -11,10 +11,10 @@
     "static/js/3.ac654c33.chunk.js": "/react-pizza-app/static/js/3.ac654c33.chunk.js",
     "static/js/3.ac654c33.chunk.js.map": "/react-pizza-app/static/js/3.ac654c33.chunk.js.map",
     "index.html": "/react-pizza-app/index.html",
-    "precache-manifest.e70755556fa7517c15d6102914efe0d7.js": "/react-pizza-app/precache-manifest.e70755556fa7517c15d6102914efe0d7.js",
+    "precache-manifest.073d2a296a7a722a73d75293f54f3849.js": "/react-pizza-app/precache-manifest.073d2a296a7a722a73d75293f54f3849.js",
     "service-worker.js": "/react-pizza-app/service-worker.js",
     "static/css/2.8ac840ac.chunk.css.map": "/react-pizza-app/static/css/2.8ac840ac.chunk.css.map",
-    "static/css/main.b50d74ec.chunk.css.map": "/react-pizza-app/static/css/main.b50d74ec.chunk.css.map",
+    "static/css/main.23e99b40.chunk.css.map": "/react-pizza-app/static/css/main.23e99b40.chunk.css.map",
     "static/js/2.0fa382d0.chunk.js.LICENSE.txt": "/react-pizza-app/static/js/2.0fa382d0.chunk.js.LICENSE.txt",
     "static/media/AboutPageImage.jpg": "/react-pizza-app/static/media/AboutPageImage.2905f32c.jpg",
     "static/media/BuildYourOwn.jpeg": "/react-pizza-app/static/media/BuildYourOwn.f5ea3643.jpeg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.0efb72d7.js",
     "static/css/2.8ac840ac.chunk.css",
     "static/js/2.0fa382d0.chunk.js",
-    "static/css/main.b50d74ec.chunk.css",
-    "static/js/main.598b218b.chunk.js"
+    "static/css/main.23e99b40.chunk.css",
+    "static/js/main.1659f367.chunk.js"
   ]
 }
